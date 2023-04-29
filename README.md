@@ -1,2 +1,3 @@
-# Snake-game-Using-Visual-Basic
-A snake name using Visual Baisc.
+# Snake-Game-Using-Visual-Basic
+A snake name using Visual Basic.
+
