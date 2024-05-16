@@ -1,6 +1,6 @@
 # Snake-Game-Using-Visual-Basic
 
-A snake game using Visual Basic.
+A snake game written with Visual Basic.
 
 You need to download Visual Basic to open this file though it's hard to get nowadays. lol
 
